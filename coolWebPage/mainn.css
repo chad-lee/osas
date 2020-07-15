@@ -1,0 +1,15 @@
+h1 {
+	background: rgba(255, 102, 100, 0.6);
+	font-size:50px;
+}
+
+#bruh{
+	background:red;
+}
+
+h1{
+	width:350px;
+	height:350px;
+	margin:50px;
+	padding:30px;
+}
